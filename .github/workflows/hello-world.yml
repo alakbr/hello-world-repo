@@ -5,4 +5,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Echo text
-              run: 'echo "Hellow, World"'
+              run: 'echo "Hello, World"'
